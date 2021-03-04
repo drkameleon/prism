@@ -138,6 +138,10 @@
 			"title": "ARFF",
 			"owner": "Golmote"
 		},
+		"arturo": {
+			"title": "Arturo",
+			"owner": "drkameleon"
+		},
 		"asciidoc": {
 			"alias": "adoc",
 			"title": "AsciiDoc",
