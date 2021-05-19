@@ -31,6 +31,7 @@
 		"apl": "APL",
 		"aql": "AQL",
 		"arff": "ARFF",
+		"art": "Arturo",
 		"asciidoc": "AsciiDoc",
 		"adoc": "AsciiDoc",
 		"aspnet": "ASP.NET (C#)",
